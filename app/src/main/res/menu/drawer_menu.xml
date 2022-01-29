@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:visibility="visible"
+    tools:showIn="navigation_view"
+    tools:visibility="visible">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="Search" />
+<!--        <item-->
+<!--            android:id="@+id/nav_message"-->
+<!--            android:icon="@drawable/ic_message"-->
+<!--            android:title="Message" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_profile"-->
+<!--            android:icon="@drawable/ic_profile"-->
+<!--            android:title="Profile" />-->
+        <item
+            android:id="@+id/nav_pay"
+            android:icon="@drawable/ic_pay"
+            android:title="Payment" />
+        <item
+            android:id="@+id/nav_set"
+            android:icon="@drawable/ic_set"
+            android:title="Settings" />
+<!--        <item-->
+<!--            android:id="@+id/nav_log"-->
+<!--            android:icon="@drawable/ic_log"-->
+<!--            android:title="Logout" />-->
+    </group>
+
+
+</menu>

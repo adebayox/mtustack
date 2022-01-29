@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mtustack</string>
+    <string name="title_activity_navdrawer">navdrawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    Strings[] items = {"CBAS", "CHMS"};
+    <string name="select">College</string>
+
+    Strings[] item1 = {"Computer Science", "Microbiology", "Geophysics", "Mathematics", "Mass Communication" };
+    <string name="dept">Department</string>
+
+
+</resources>
