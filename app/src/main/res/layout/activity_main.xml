@@ -5,12 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/signo"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="180dp"
-        android:text="Signup with MTUStack"
+        android:text=""
         android:textAlignment="center"
         android:textColor="#000"
         android:paddingVertical="73dp"

@@ -5,12 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/signi"
     tools:context=".MainActivity">
+
+
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="198dp"
-        android:text="MTUStack"
+        android:text=""
         android:textAlignment="center"
         android:textColor="#000"
         android:paddingVertical="71dp"
@@ -51,7 +54,7 @@
         android:id="@+id/Button02"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"
+        android:text="Sign In"
         android:layout_marginHorizontal="30dp"
         android:layout_marginBottom="25dp"
         android:background="@drawable/button_bg"
