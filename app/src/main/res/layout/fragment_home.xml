@@ -8,6 +8,10 @@
     tools:context=".HomeFragment">
 
 
+
+
+
+
 <!--    <ImageView-->
 <!--        android:layout_width="417dp"-->
 <!--        android:layout_height="306dp"-->
@@ -20,11 +24,13 @@
 <!--        tools:layout_editor_absoluteY="272dp" />-->
 
     <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/homo"/>
+        android:background="@drawable/homo" />
 
-<!--    <TextView-->
+
+    <!--    <TextView-->
 <!--        android:layout_width="wrap_content"-->
 <!--        android:layout_height="wrap_content"-->
 <!--        android:text="Home"-->
@@ -39,6 +45,19 @@
 <!--        app:layout_constraintTop_toTopOf="parent"-->
 <!--        />-->
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="13dp"
+        android:text="Welcome, Adebayo David"
+        android:fontFamily="cursive"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.019"
+        tools:layout_editor_absoluteX="16dp" />
 
     <Button
         android:id="@+id/Button03"

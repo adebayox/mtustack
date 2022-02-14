@@ -10,9 +10,11 @@
         <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.15213675213675212" />
         <entry key="app/src/main/res/layout/activity_bottom_nav.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_fragment.xml" value="0.13547008547008546" />
+        <entry key="app/src/main/res/layout/activity_homef.xml" value="0.17307692307692307" />
         <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_signup_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_spinner.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.1388888888888889" />
         <entry key="app/src/main/res/layout/activity_studentdetails.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_navdrawer.xml" value="0.12264957264957264" />
@@ -21,6 +23,7 @@
         <entry key="app/src/main/res/layout/fragment_pay.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_set.xml" value="0.12735042735042734" />
+        <entry key="app/src/main/res/layout/fragment_wallet.xml" value="0.1841880341880342" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.10371376811594203" />
         <entry key="app/src/main/res/layout/nav_header_navdrawer.xml" value="0.1" />
         <entry key="app/src/main/res/layout/signup.xml" value="0.234375" />

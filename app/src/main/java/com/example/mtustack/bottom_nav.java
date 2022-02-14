@@ -34,6 +34,9 @@ public class bottom_nav extends AppCompatActivity {
                     case R.id.nav_home:
                         fragment = new HomeFragment();
                         break;
+                    case R.id.nav_wal:
+                        fragment = new WalletFragment();
+                        break;
                     case R.id.nav_search:
                         fragment = new searchFragment();
                         break;

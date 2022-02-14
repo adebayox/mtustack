@@ -9,6 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Mtustack">
+        <activity
+            android:name=".spinner"
+            android:exported="false" />
         <!-- <activity -->
         <!-- android:name=".NavdrawerActivity" -->
         <!-- android:exported="false" -->

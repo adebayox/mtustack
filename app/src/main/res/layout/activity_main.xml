@@ -81,7 +81,7 @@
         android:id="@+id/Button01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SignUp"
+        android:text="Sign Up"
         android:layout_marginHorizontal="30dp"
         android:layout_marginBottom="25dp"
         android:background="@drawable/button_bg"
