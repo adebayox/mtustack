@@ -13,8 +13,10 @@
         <entry key="app/src/main/res/layout/activity_homef.xml" value="0.17307692307692307" />
         <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_onboard.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_onboard2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_signup_page.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_spinner.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_spinner.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.1388888888888889" />
         <entry key="app/src/main/res/layout/activity_studentdetails.xml" value="0.1" />
         <entry key="app/src/main/res/layout/content_navdrawer.xml" value="0.12264957264957264" />

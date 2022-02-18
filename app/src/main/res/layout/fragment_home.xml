@@ -50,7 +50,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="13dp"
-        android:text="Welcome, Adebayo David"
+        android:text="Welcome"
         android:fontFamily="cursive"
         android:textColor="@color/black"
         android:textSize="16dp"

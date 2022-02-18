@@ -10,9 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mtustack">
         <activity
-            android:name=".spinner"
+            android:name=".onboard2"
             android:exported="false" />
-        <!-- <activity -->
+        <activity
+            android:name=".onboard"
+            android:exported="false" />
+        <activity
+            android:name=".spinner"
+            android:exported="false" /> <!-- <activity -->
         <!-- android:name=".NavdrawerActivity" -->
         <!-- android:exported="false" -->
         <!-- android:label="@string/title_activity_navdrawer" -->
