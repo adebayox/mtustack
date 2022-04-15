@@ -14,5 +14,16 @@
     </string-array>
 
 
+    <string name="meal_price">Pay &#x20A6;4,000</string>
+
+    <string name="payment_prompt">Card details</string>
+
+    <string name="card_number">Card Number</string>
+
+    <string name="card_expiry">Card Expiry</string>
+
+    <string name="card_cvv">CVV</string>
+
+
 </resources>
 

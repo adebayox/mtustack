@@ -74,7 +74,7 @@
 
 
      <Button
-         android:id="@+id/Button_pay"
+         android:id="@+id/paybtn"
          android:layout_width="276dp"
          android:layout_height="50dp"
          android:layout_below="@id/feeb"

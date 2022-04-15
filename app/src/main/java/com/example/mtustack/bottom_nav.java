@@ -28,9 +28,13 @@ public class bottom_nav extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bottom_nav);
 
+
+
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_nav);
         NavigationUI.setupWithNavController(bottomNavigationView, navController);
+
+
 //        firstfrag = findViewById(R.id.Button_home);
 //        secondfrag = findViewById(R.id.Button_pay);
 //

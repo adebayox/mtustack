@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
 
 
     <color name="Home">#FFDFDF</color>
     <color name="Pay">#DADEFF</color>
     <color name="Settings">#E0FFDA</color>
+
+ //paystack checkout colors
+    <color name="white">#FFFFFFFF</color>
+    <color name="silver_400">#CBC9C9</color>
+    <color name="azac_500">#DEB334</color>
+    <color name="cod_gray_900">#171516</color>
+    // this is used to modify the default border color of a text input
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#CBC9C9</color>
 </resources>

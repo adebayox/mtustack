@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mtustack" >
         <activity
+            android:name=".CompleteReg"
+            android:exported="false" />
+        <activity
             android:name=".studetails"
             android:exported="false" />
         <activity
