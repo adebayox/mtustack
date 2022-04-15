@@ -3,16 +3,15 @@
     <string name="title_activity_navdrawer">navdrawer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fee">Select Fee</string>
+    <string name="level">Select Level</string>
+    <string name="college">College</string>
+    <string name="select">Select</string>
 
-    <string name="select">College</string>
-
-    Strings[] item1 = {"Computer Science", "Microbiology", "Geophysics", "Mathematics", "Mass
-    Communication" };
-    <string name="dept">Department</string>
-    <string name="welcome_text">Kindly Select The Right Options</string>
-    <string name="college">college</string>
-    <string name="submit">submit</string>
-    <string name="level">level</string>
+    <string-array name="College">
+        <item>CBAS</item>
+        <item>CHMS</item>
+    </string-array>
 
 
 </resources>
